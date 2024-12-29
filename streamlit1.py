@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.image(r"C:\Users\Pradeep Singh Rawat\Pictures\Camera Roll\WIN_20230625_21_04_40_Pro.jpg")
 
 st.title("Fist Website")
 
