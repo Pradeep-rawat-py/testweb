@@ -9,7 +9,7 @@ progress_bar = st.progress(0)
 st.caption("Copying data")
 
 for i in range(0, 100):
-    t.sleep(0.05)
+    t.sleep(0.01)
     progress_bar.progress(i)
 
 st.success("Device hacked")
