@@ -14,9 +14,22 @@ for i in range(0, 100):
 
 st.success("Device hacked")
 
+st.error("Transfer 100k to 099334028455 by Today to delete your data from our database!")
 
 with st.spinner("Wait"):
     t.sleep(5)
+
+st.markdown("🤖")
+st.markdown("🤖")
+st.markdown("🤖")
+st.markdown("🤖")
+st.markdown("🤖")
+st.markdown("🤖")
+st.markdown("🤖")
+st.markdown("🤖")
+st.markdown("🤖")
+st.markdown("🤖")
+st.title("Please wait")
 
 st.title("Fist Website")
 
@@ -41,7 +54,7 @@ st.caption("Welcome")
 st.latex(r"a + bx^3 + c")
 
 with st.sidebar:
-    st.title("Abc")
+    st.title("Hacker Boss")
     
     
     
